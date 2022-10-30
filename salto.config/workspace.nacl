@@ -1,0 +1,5 @@
+workspace {
+  uid = "ed36c2a4-93b5-4915-bc7b-353e342ed1bf"
+  name = "TestDeploymentWithDummy2"
+  staleStateThresholdMinutes = undefined
+}
