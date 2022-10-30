@@ -1,5 +1,5 @@
 dummy.Full FullInst2 {
   strField = "STR2"
-  numField = 222
+  numField = 22332
   _parent = dummy.Full
 }
